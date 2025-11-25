@@ -1,4 +1,4 @@
-# 🧑‍🎓 **BTP Project — Encoder–Decoder Word Alignment**
+# 🧑‍🎓 **BTP Project — Word Alignment and Bilingual word embeddings**
 
 **Author:** *Triparna Samanta*
 **Roll Number:** *22075108*
