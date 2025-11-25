@@ -6,7 +6,7 @@
 
 **Institution:** *IIT(BHU),Varanasi*
 
-**BTP Title:** **Encoder–Decoder Word Alignment**
+**BTP Title:** **Word Alignment and Bilingual Word Embeddings**
 
 **Professor:** *Anil Singh*
 
