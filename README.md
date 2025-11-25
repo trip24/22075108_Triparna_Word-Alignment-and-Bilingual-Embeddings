@@ -1,9 +1,13 @@
 # 🧑‍🎓 **BTP Project — Word Alignment and Bilingual Word Embeddings**
 
 **Author:** *Triparna Samanta*
+
 **Roll Number:** *22075108*
+
 **Institution:** *IIT(BHU),Varanasi*
+
 **BTP Title:** **Encoder–Decoder Word Alignment**
+
 **Professor:** *Anil Singh*
 
 
