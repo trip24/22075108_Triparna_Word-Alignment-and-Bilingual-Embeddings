@@ -493,10 +493,6 @@ python scripts/generate_monolingual_dicts.py
 
 👉 https://drive.google.com/drive/folders/1Hd0S3gwncXq4ADlcNMk2uMsBL4byHJXl?usp=drive_link
 
-### 📌 **Final Paper (Optional)**
-
-👉 https://drive.google.com/drive/folders/1Hd0S3gwncXq4ADlcNMk2uMsBL4byHJXl?usp=drive_link
-
 ---
 
 # 🙌 **End of README**
